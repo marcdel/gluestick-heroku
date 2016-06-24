@@ -1,0 +1,8 @@
+{
+  "name": "gluestick-heroku",
+  "version": "0.8.0",
+  "author": "Marc Delagrammatikas <delagrammatikas@gmail.com>",
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {}
+}
